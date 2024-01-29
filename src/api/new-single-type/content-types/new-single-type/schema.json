@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "new_single_types",
+  "info": {
+    "singularName": "new-single-type",
+    "pluralName": "new-single-types",
+    "displayName": "New-Single-Type",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "textField": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Component": {
+      "displayName": "Module",
+      "type": "component",
+      "repeatable": false,
+      "component": "module.module"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "type2s",
+  "info": {
+    "singularName": "type2",
+    "pluralName": "type2s",
+    "displayName": "type2"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Module2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "module.module"
+    }
+  }
+}

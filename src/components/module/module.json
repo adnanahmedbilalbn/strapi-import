@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_module_modules",
+  "info": {
+    "displayName": "Module"
+  },
+  "options": {},
+  "attributes": {
+    "Media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

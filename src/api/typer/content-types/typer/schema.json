@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "typers",
+  "info": {
+    "singularName": "typer",
+    "pluralName": "typers",
+    "displayName": "typer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Text": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_men_restaurants",
+  "info": {
+    "displayName": "Restaurant",
+    "icon": "emotionHappy"
+  },
+  "options": {},
+  "attributes": {
+    "textField": {
+      "type": "string"
+    }
+  }
+}
